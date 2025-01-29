@@ -1,0 +1,8 @@
+{
+  "search": "https://www.gojo.wtf/search?query={searchterm}&sort=POPULARITY_DESC",
+  "urls": {
+    "match": [
+      "*://*.gojo.wtf/*"
+    ]
+  }
+}
