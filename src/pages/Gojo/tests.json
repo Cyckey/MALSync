@@ -1,0 +1,51 @@
+{
+  "title": "GojoWTF",
+  "url": "https://gojo.wtf",
+  "testCases": [
+    {
+      "url": "https://gojo.wtf/watch/177709?ep=1",
+      "expected": {
+        "sync": true,
+        "title": "My Hero Academia Season 6",
+        "identifier": "177709",
+        "uiSelector": false,
+        "overviewUrl": "https://gojo.wtf/info/177709",
+        "episode": 1,
+        "nextEpUrl": "https://gojo.wtf/watch/177709?ep=2"
+      }
+    },
+    {
+      "url": "https://gojo.wtf/watch/101280?ep=19",
+      "expected": {
+        "sync": true,
+        "title": "That Time I Got Reincarnated as a Slime",
+        "identifier": "101280",
+        "uiSelector": false,
+        "overviewUrl": "https://gojo.wtf/info/101280",
+        "episode": 19,
+        "nextEpUrl": "https://gojo.wtf/watch/101280?ep=20"
+      }
+    },
+    {
+      "url": "https://gojo.wtf/watch/104459?ep=13",
+      "expected": {
+        "sync": true,
+        "title": "LAID-BACK CAMP SEASON2",
+        "identifier": "104459",
+        "uiSelector": false,
+        "overviewUrl": "https://gojo.wtf/info/104459",
+        "episode": 13,
+        "nextEpUrl": ""
+      }
+    },
+    {
+      "url": "https://gojo.wtf/info/163139",
+      "expected": {
+        "sync": false,
+        "title": "My Hero Academia Season 7",
+        "identifier": "163139",
+        "uiSelector": true
+      }
+    }
+  ]
+}
