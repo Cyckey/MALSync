@@ -1,7 +1,7 @@
 import { pageInterface } from '../pageInterface';
 
 export const GojoWTF: pageInterface = {
-  name: 'GojoWTF',
+  name: 'Gojo',
   domain: ['https://gojo.wtf'],
   languages: ['English'],
   type: 'anime',
